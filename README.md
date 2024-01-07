@@ -1,5 +1,6 @@
+### Hello World 👋 I am Khushi Agarwal
 <h6 align="left">
-Hello World 👋 I am Khushi Agarwal<br>🔭 I’m currently working on Python projects in AI<br>🌱 I’m currently learning Cloud Computing and Web Development<br> 💬 Ask me about  C and Python</h6>
+🔭 I’m currently working on Python projects in AI<br>🌱 I’m currently learning Cloud Computing and Web Development<br> 💬 Ask me about  C and Python</h6>
 
 ###
 
