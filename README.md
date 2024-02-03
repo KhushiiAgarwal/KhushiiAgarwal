@@ -72,8 +72,11 @@
 </div>
 
 ###
-![Khushi Agarwal's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KhushiiAgarwal)
-###
+<div align="center">
+![Khushi Agarwal's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KhushiiAgarwal&combine_all_yearly_contributions=true)
+</div>
+
+  ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/khushi-agarwal-a68090230/" target="_blank">
