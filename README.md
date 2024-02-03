@@ -69,12 +69,11 @@
   <br><img src="https://streak-stats.demolab.com?user=khushiiagarwal&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=khushiiagarwal&theme=dracula&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+  ![Khushi Agarwal's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KhushiiAgarwal&combine_all_yearly_contributions=true)
+
 </div>
 
-###
-<div align="center">
-![Khushi Agarwal's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=KhushiiAgarwal&combine_all_yearly_contributions=true)
-</div>
+
 
   ###
 
