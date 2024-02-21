@@ -87,7 +87,7 @@
 <!-- <img src="https://github-contributor-stats.vercel.app/api?username=KhushiiAgarwal&combine_all_yearly_contributions=true&limit=3&radius=16&theme=cobalt&area=true&order=5" height="100" alt="activity-graph graph"  /> -->
 </div>
 
-
+![](KhushiiAgarwal-2023.gif)
 
   ###
 
