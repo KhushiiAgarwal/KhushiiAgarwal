@@ -83,8 +83,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushiiagarwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  /><br>
   <img src="https://streak-stats.demolab.com?user=khushiiagarwal&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=khushiiagarwal&theme=discord&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  
-  ![Snake Animation](https://github.com/KhushiiAgarwal/KhushiiAgarwal/blob/output/github-contribution-grid-snake.svg)
+  <!--START_SECTION:snake-->
+    ![Snake Animation](https://github.com/KhushiiAgarwal/KhushiiAgarwal/blob/output/github-contribution-grid-snake.svg) 
+<!--END_SECTION:snake-->
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=monokai&area=true&order=6" height="300" alt="activity-graph graph"  />
 <!-- <img src="https://github-contributor-stats.vercel.app/api?username=KhushiiAgarwal&combine_all_yearly_contributions=true&limit=3&radius=16&theme=cobalt&area=true&order=5" height="100" alt="activity-graph graph"  /> -->
 </div>
