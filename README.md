@@ -85,7 +85,7 @@
   <img src="https://github-profile-trophy.vercel.app?username=khushiiagarwal&theme=discord&column=6&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <!--START_SECTION:snake-->
   
-  ![Snake Animation](https://github.com/KhushiiAgarwal/KhushiiAgarwal/blob/output/github-contribution-grid-snake.svg)  
+  ![Snake Animation](https://github.com/KhushiiAgarwal/KhushiiAgarwal/blob/output/github-contribution-grid-snake.gif)  
 <!--END_SECTION:snake-->
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=monokai&area=true&order=6" height="300" alt="activity-graph graph"  />
