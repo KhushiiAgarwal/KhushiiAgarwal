@@ -21,8 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
   <img width="12" /> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="R-studio logo"  />
-  <img width="12" />
-          
+  <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="40" alt="Kaggle logo"  />
@@ -70,13 +69,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Github logo"  />
-  <img width="12" />
-                 
+  <img width="12" />     
 </div>
-
-###
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushiiagarwal&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> <br>
@@ -87,26 +81,17 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=monokai&area=true&order=6" height="300" alt="activity-graph graph"  />
   
-
 <!-- <img src="https://github-contributor-stats.vercel.app/api?username=KhushiiAgarwal&combine_all_yearly_contributions=true&limit=3&radius=16&theme=cobalt&area=true&order=5" height="100" alt="activity-graph graph"  /> 
  ![Snake Animation](https://github.com/KhushiiAgarwal/KhushiiAgarwal/blob/output/github-contribution-grid-snake.svg)  
 -->
 </div>
 
-###
-
 <br clear="both">
-
 <img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
 
-###
-
 <div align="center">
-
 ![](KhushiiAgarwal-2023.gif)
 </div>
-
-  ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/khushi-agarwal-a68090230/" target="_blank">
@@ -120,10 +105,6 @@
   </a>
 </div>
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/khushiiagarwal/count.svg?"  />
 </div>
-
-###
