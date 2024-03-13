@@ -92,6 +92,13 @@
  ![Snake Animation](https://github.com/KhushiiAgarwal/KhushiiAgarwal/blob/output/github-contribution-grid-snake.svg)  
 -->
 </div>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 <div align="center">
 
 ![](KhushiiAgarwal-2023.gif)
