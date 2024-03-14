@@ -50,9 +50,22 @@
  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiiAgarwal">
           <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiiAgarwal&theme=cobalt"/>
         </a>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=monokai&area=true&order=6" height="300" alt="activity-graph graph"  />
+  <!-- <img src="https://github-contributor-stats.vercel.app/api?username=KhushiiAgarwal&combine_all_yearly_contributions=true&limit=3&radius=16&theme=cobalt&area=true&order=5" height="100" alt="activity-graph graph"/> -->
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhushiiAgarwal">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhushiiAgarwal&theme=cobalt"/>
+        </a>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhushiiAgarwal&">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhushiiAgarwal&theme=dracula"/>
+        </a>
+   <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal&theme=dracula"/>
+        </a>
+     <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiiAgarwal">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?usernameKhushiiAgarwal&theme=dracula"/>
+        </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=monokai&order=6" height="300" alt="activity-graph graph"  />
   
-<!-- <img src="https://github-contributor-stats.vercel.app/api?username=KhushiiAgarwal&combine_all_yearly_contributions=true&limit=3&radius=16&theme=cobalt&area=true&order=5" height="100" alt="activity-graph graph"/> -->
+
 </div>
 
 <br clear="both">
