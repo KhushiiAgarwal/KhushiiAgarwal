@@ -61,7 +61,7 @@
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhushiiAgarwal&theme=cobalt"/>
         </a>
    <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal&theme=radical"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal&theme=darkhub"/>
         </a>
      <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiiAgarwal">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?usernameKhushiiAgarwal&theme=cobalt"/>
