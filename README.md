@@ -47,6 +47,8 @@
 <a href="https://github-trophies.vercel.app/?username=KhushiiAgarwal" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=KhushiiAgarwal&theme=discord&margin-w=4&margin-h=4&column=4&row=2">
 </a>
+  <br clear="both">
+<img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiiAgarwal">
           <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiiAgarwal&theme=cobalt"/>
         </a>
@@ -68,8 +70,7 @@
 
 </div>
 
-<br clear="both">
-<img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
+
 
 <div align="center">
   
