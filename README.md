@@ -1,4 +1,4 @@
-### Hello World 👋 I am Khushi Agarwal
+### Hello World! 👋 from Khushi Agarwal
 <h6 align="left">
 🔭 I’m currently working on Python projects in AI<br>🌱 I’m currently learning Cloud Computing and Web Development<br> 💬 Ask me about C and Python</h6>
 
@@ -61,7 +61,7 @@
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhushiiAgarwal&theme=cobalt"/>
         </a>
    <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal&theme=dracula"/>
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal&theme=radical"/>
         </a>
      <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiiAgarwal">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?usernameKhushiiAgarwal&theme=cobalt"/>
