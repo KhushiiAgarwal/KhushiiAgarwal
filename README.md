@@ -48,7 +48,7 @@
   <img src="https://github-trophies.vercel.app/?username=KhushiiAgarwal&theme=discord&margin-w=4&margin-h=4&column=4&row=2">
 </a>
  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiiAgarwal">
-          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiiAgarwal&theme=discord"/>
+          <img width="715" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiiAgarwal&theme=monokai"/>
         </a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=monokai&area=true&order=6" height="300" alt="activity-graph graph"  />
   
