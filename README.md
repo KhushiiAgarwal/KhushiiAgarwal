@@ -76,7 +76,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=khushiiagarwal&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushiiagarwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  /><br>
   <img src="https://streak-stats.demolab.com?user=khushiiagarwal&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-<img src="https://github-profile-trophy.vercel.app?username=khushiiagarwal&theme=discord&column=11&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" />
+<a href="https://github-trophies.vercel.app/?username=KhushiiAgarwal" target="_blank">
+  <img src="https://github-trophies.vercel.app/?username=KhushiiAgarwal&theme=discord&margin-w=4&margin-h=4">
+</a>
+
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=khushiiagarwal&theme=discord&rank=NEWBIE" alt="New User Trophy" />
  -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=monokai&area=true&order=6" height="300" alt="activity-graph graph"  />
