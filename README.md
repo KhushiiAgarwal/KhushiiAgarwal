@@ -1,9 +1,9 @@
 # Hello World! 👋 from Khushi Agarwal
-#### A Computer Engineering Undergraduate aspiring to learn. 👩🏻‍💻💻
+#### A Computer Engineering 🤓 Undergraduate aspiring to learn. 👩🏻‍💻
   
-### Technologies I know
+### Tools 🔨 & Technologies 💻 I know
 <details>
-  <summary> Programming Languages </summary>
+  <summary> Programming Languages ©️ </summary>
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />  <img width="12" />
@@ -12,7 +12,7 @@
 </details>
   
   <details>
-  <summary> Machine Learning Libraries </summary>
+  <summary> Machine Learning Libraries 🤖 </summary>
   <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />  <img width="12" />
@@ -25,7 +25,7 @@
   </details>
   
   <details>
-  <summary> Web Development </summary>
+  <summary> Web Development 🕸️</summary>
       <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo"  />  <img width="12" />
@@ -39,7 +39,7 @@
   </div>
   </details>
 <details>
-  <summary>Backend Database </summary>    <div align="center">
+  <summary>Backend Database 🔙 </summary>    <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />  <img width="12" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VS Code logo"  />  <img width="12" />
@@ -48,7 +48,7 @@
   </details>
   
 <details>
-  <summary> Internet Of Things </summary>    
+  <summary> Internet Of Things 🛜</summary>    
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="Embedded C logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino logo"  />  <img width="12" /> 
@@ -56,14 +56,14 @@
 </details>  
 
   <details>
-  <summary> Operating System </summary>  
+  <summary> Operating System 🖥️</summary>  
     <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />  <img width="12" />          
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />  <img width="12" />
     </div>
   </details>
  <details>
-  <summary> Cloud Computing & CI/CD </summary>
+  <summary> Cloud Computing & CI/CD ☁️😶‍🌫️</summary>
   <div align="center">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo"  />  <img width="12" />
