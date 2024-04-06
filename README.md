@@ -80,8 +80,11 @@
   <summary> My Github Stats </summary>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khushiiagarwal&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false&order=1" alt="stats graph"  />
+    
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushiiagarwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=cobalt&hide_border=false&order=2" alt="languages graph"  />
-  <br> <img src="https://streak-stats.demolab.com?user=khushiiagarwal&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> <br>
+  <br> 
+  <img src="https://streak-stats.demolab.com?user=khushiiagarwal&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> 
+  <br>
 <a href="https://github-trophies.vercel.app/?username=KhushiiAgarwal" target="_blank">
   <img src="https://github-trophies.vercel.app/?username=KhushiiAgarwal&theme=discord&margin-w=4&margin-h=4&column=4&row=2">
 </a>
@@ -93,13 +96,16 @@
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhushiiAgarwal">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhushiiAgarwal&theme=cobalt"/>
         </a>
+        
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhushiiAgarwal&">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhushiiAgarwal&theme=cobalt"/>
         </a>
-   <a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal&theme=darkhub"/>
+    <br><br>    
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal&theme=cobalt"/>
         </a>
-     <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiiAgarwal">
+        
+  <a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiiAgarwal">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?usernameKhushiiAgarwal&theme=cobalt"/>
         </a>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=monokai&order=6" height="300" alt="activity-graph graph"  />
