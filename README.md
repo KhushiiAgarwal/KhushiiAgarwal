@@ -13,6 +13,7 @@
   
   <details>
   <summary> Machine Learning Libraries </summary>
+  <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="40" alt="TensorFlow logo" />  <img width="12" />
@@ -20,6 +21,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="R-studio logo"  />  <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter logo" />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="40" alt="Kaggle logo"  />  <img width="12" />
+  </div>
   </details>
   
   <details>
