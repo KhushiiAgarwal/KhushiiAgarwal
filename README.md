@@ -2,7 +2,6 @@
 #### A Computer Engineer Undergraduate aspiring to learn. 👩🏻‍💻💻
   
 ### Technologies I know
-<br clear="both">
 <details>
   <summary> Programming Languages </summary>
   <div align="center">
@@ -71,8 +70,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Github logo"  />  <img width="12" />    
 </div>
-<br>
-
 </details>
 
 
@@ -115,7 +112,6 @@
 </div>
 </details>
 
- <br clear="both">
 <img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
