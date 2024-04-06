@@ -1,5 +1,5 @@
 # Hello World! 👋 from Khushi Agarwal
-#### A Computer Engineer Undergraduate aspiring to learn. 👩🏻‍💻💻
+#### A Computer Engineering Undergraduate aspiring to learn. 👩🏻‍💻💻
   
 ### Technologies I know
 <details>
