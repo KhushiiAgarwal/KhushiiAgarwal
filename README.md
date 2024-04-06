@@ -1,7 +1,6 @@
-### Hello World! 👋 from Khushi Agarwal
+# Hello World! 👋 from Khushi Agarwal
 <h6 align="left">
-🔭 I’m currently working on Python projects in AI<br>🌱 I’m currently learning Cloud Computing and Web Development<br> 💬 Ask me about C and Python</h6>
-
+A Computer Engineer Undergraduate aspiring to learn 
 ### Technologies I know
 <br clear="both">
 
