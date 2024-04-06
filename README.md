@@ -105,9 +105,10 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KhushiiAgarwal&theme=cobalt"/> 
 </a>
 
-<a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiiAgarwal">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiiAgarwal"/>
+<a href="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiiAgarwal&theme=cobalt">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KhushiiAgarwal&theme=cobalt"/>
 </a>
+
         
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=monokai&order=6" height="300" alt="activity-graph graph"  />
   
