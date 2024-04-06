@@ -75,6 +75,10 @@
 </details>
 
 
+
+<img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
 <details>
   <summary> My Github Stats </summary>
   <div align="center">
@@ -113,10 +117,6 @@
   
 </div>
 </details>
-
-<img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
-
-<div align="center">
   
 ![](KhushiiAgarwal-2023.gif)
 </div>
