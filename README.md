@@ -1,5 +1,5 @@
 # Hello World! 👋 from Khushi Agarwal
-#### A Computer Engineering 🤓 Undergraduate aspiring to learn. 👩🏻‍💻
+#### A Data Engineer 🤓 aspiring to learn. 👩🏻‍💻
   
 ### Tools 🔨 & Technologies 💻 I know
  <div align="center">
