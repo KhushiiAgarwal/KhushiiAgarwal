@@ -1,6 +1,8 @@
 # Hello World! 👋 from Khushi Agarwal
 #### A Data Engineer 🤓 aspiring to learn. 👩🏻‍💻
   
+  <img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
+
 ### Tools 🔨 & Technologies 💻 I know
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Github logo"  />  <img width="12" />   
@@ -84,7 +86,6 @@
 </details>
 
 
-<img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
 <details>
