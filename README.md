@@ -2,6 +2,7 @@
 #### A Data Engineer 🤓 aspiring to learn. 👩🏻‍💻
   
   <img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
+  ![](KhushiiAgarwal-2023.gif)
 
 ### Tools 🔨 & Technologies 💻 I know
  <div align="center">
@@ -127,7 +128,6 @@
 </div>
 </details>
   
-![](KhushiiAgarwal-2023.gif)
 </div>
 
 <div align="left">
