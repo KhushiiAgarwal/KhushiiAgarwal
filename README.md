@@ -4,9 +4,7 @@
 
   
   <img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
-   <div align="center">
-    ![](KhushiiAgarwal-2023.gif)
-</div>
+
 ### Tools 🔨 & Technologies 💻 I know
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Github logo"  />  <img width="12" />   
@@ -136,6 +134,8 @@
   
 </div>
 </details>
+    ![](KhushiiAgarwal-2023.gif)
+</div>
 
 
 <div align="left">
