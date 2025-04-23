@@ -1,9 +1,12 @@
 # Hello World! 👋 from Khushi Agarwal
 #### A Data Engineer 🤓 aspiring to learn. 👩🏻‍💻
+##### Welcome to my GitHub! I specialize in building scalable data solutions, optimizing legacy systems, and experimenting with generative AI. I currently work at **Seagate Technology**, where I engineer data migration frameworks, manage Hadoop clusters, and build interactive analytics and GenAI tools.
+
   
   <img src="https://raw.githubusercontent.com/KhushiiAgarwal/KhushiiAgarwal/output/snake.svg" alt="Snake animation" />
-  ![](KhushiiAgarwal-2023.gif)
-
+   <div align="center">
+    ![](KhushiiAgarwal-2023.gif)
+</div>
 ### Tools 🔨 & Technologies 💻 I know
  <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="40" alt="Github logo"  />  <img width="12" />   
@@ -11,7 +14,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="40"/> <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VS Code logo"  />  <img width="12" />
  </div>       
-                    
+   <summary> Big Data & ETL 🔄 </summary> 
+   <div align="center"> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="Apache" /> <img width="12" /> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original-wordmark.svg" height="40" alt="Hadoop" /> <img width="12" /> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original-wordmark.svg" height="40" alt="Airflow" /> <img width="12" /> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="Docker logo" /> <img width="12" /> 
+   </div>
 <details>
   <summary> Programming Languages ©️ </summary>
   <div align="center">
@@ -127,8 +136,7 @@
   
 </div>
 </details>
-  
-</div>
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/khushi-agarwal-a68090230/" target="_blank">
