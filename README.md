@@ -95,7 +95,7 @@
 
 
 
-<div align="center">
+<div align="left">
 <details>
   <summary> My Github Stats </summary>
   <div align="center">
@@ -134,7 +134,7 @@
   
 </div>
 </details>
-    ![](KhushiiAgarwal-2023.gif)
+   ![](KhushiiAgarwal-2023.gif)
 </div>
 
 
