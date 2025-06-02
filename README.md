@@ -106,7 +106,7 @@
   <img src="https://streak-stats.demolab.com?user=khushiiagarwal&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> 
   <br>
 <a href="https://github-trophies.vercel.app/?username=KhushiiAgarwal" target="_blank">
-  <img src="https://github-trophies.vercel.app/?username=KhushiiAgarwal&theme=discord&margin-w=4&margin-h=4&column=4&row=2">
+  <img src="https://github-trophies.vercel.app/?username=KhushiiAgarwal&theme=discord">
 </a>
 
  <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhushiiAgarwal">
@@ -131,10 +131,11 @@
 
         
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khushiiagarwal&radius=16&theme=monokai&order=6" height="300" alt="activity-graph graph"  />
-  
+    
+  ![](KhushiiAgarwal-2023.gif)
+
 </div>
 </details>
-   ![](KhushiiAgarwal-2023.gif)
 </div>
 
 
