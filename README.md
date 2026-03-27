@@ -116,5 +116,5 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/khushiiagarwal/count.svg"  />
+  <img src="![](https://komarev.com/ghpvc/?username=KhushiiAgarwal&color=green&base=10000&abbreviated=true)"  />
 </div>
