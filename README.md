@@ -8,17 +8,21 @@
   
   <summary> Programming Languages ©️ </summary>
   <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="40" alt="R logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="Bash logo" />  <img width="12" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="Embedded C logo"  />  <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="40" alt="Jira logo" /> <img width="12" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VSCode" /> <img width="12" /> 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />  <img width="12" />          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="Windows" /> <img width="12" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="40" alt="Git" /> <img width="12" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="40" alt="Gitab logo" /> <img width="12" /> 
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="40" alt="Github logo" /> <img width="12" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" height="40" alt="Putty" /> <img width="12" />
   </div>
 
   <summary>Backend Database 🔙 </summary>    <div align="center">
-  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" alt="Oracle" /> <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" alt="PostgreSQL" /> <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />  <img width="12" />
@@ -42,20 +46,7 @@
           
    </div>
   
-  <summary> Operating System 🖥️</summary>  
-    <div align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" height="40" alt="Jira logo" /> <img width="12" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="40" alt="VSCode" /> <img width="12" /> 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo"  />  <img width="12" />          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="Windows" /> <img width="12" />  
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino logo"  />  <img width="12" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" height="40" alt="Git" /> <img width="12" /> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg" height="40" alt="Gitab logo" /> <img width="12" /> 
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" height="40" alt="Github logo" /> <img width="12" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/putty/putty-original.svg" height="40" alt="Putty" /> <img width="12" />
 
-   </div>
-  <details>
   <summary> Machine Learning Libraries 🤖 </summary>
   <div align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo"  />  <img width="12" />
@@ -67,12 +58,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="R-studio logo"  />  <img width="12" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="Jupyter logo" />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original-wordmark.svg" height="40" alt="Kaggle logo"  />  <img width="12" />
-  </div>
-  </details>
-  
-
- 
-
+  </div>  
 
 
 <div align="left">
@@ -84,7 +70,6 @@
   <br> 
 <img src="https://streak-stats.demolab.com?user=khushiiagarwal&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streak graph" /> 
 <!--   style="border-radius: 5px;" -->
-
 
   <br>
 <a href="https://github-trophies.vercel.app/?username=KhushiiAgarwal" target="_blank">
@@ -98,7 +83,6 @@
   <a href="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhushiiAgarwal">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KhushiiAgarwal&theme=cobalt"/>
         </a>
-        
 <a href="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhushiiAgarwal&">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KhushiiAgarwal&theme=cobalt"/>
         </a>
