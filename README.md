@@ -104,14 +104,14 @@
 
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/khushi-agarwal-a68090230/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/khushi-agarwal-a68090230/" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
-  <a href="https://medium.com/@akhushiagarwal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <a href="https://medium.com/@akhushiagarwal" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="Medium logo" />
   </a>
-  <a href="donutaskmyname" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="https://discord.com/users/donutaskmyname" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
-  ![](https://komarev.com/ghpvc/?username=KhushiiAgarwal&color=green&base=10000&abbreviated=true)
+  <img src="https://komarev.com/ghpvc/?username=KhushiiAgarwal&color=green&base=10000&abbreviated=true" alt="Profile views" />
 </div>
