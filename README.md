@@ -63,11 +63,7 @@
 <div align="left">
   <summary> My Github Stats </summary>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushiiagarwal&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false" alt="stats graph">
-    
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khushiiagarwal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=cobalt&hide_border=false&order=2" alt="languages graph"  />
-  <br> 
-<img src="https://streak-stats.demolab.com?user=khushiiagarwal&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub streak graph" /> 
+<img src="https://streak-stats.demolab.com?user=khushiiagarwal&locale=en&mode=daily&theme=cobalt&hide_border=false&border_radius=5" height="150" alt="GitHub streak graph" /> 
 <!--   style="border-radius: 5px;" -->
 
   <br>
