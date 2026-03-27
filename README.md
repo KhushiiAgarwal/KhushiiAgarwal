@@ -42,8 +42,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" alt="Kubernetes logo"  />  <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS logo"  />  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" height="40" alt="GCP logo"  />  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain-wordmark.svg"height="40" alt="Azure logo"  />  <img width="12" />
-          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-plain-wordmark.svg"height="40" alt="Azure logo"  />  <img width="12" />          
    </div>
   
 
@@ -117,5 +116,5 @@
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/khushiiagarwal/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/khushiiagarwal/count.svg"  />
 </div>
