@@ -113,5 +113,5 @@
   <a href="https://discord.com/users/donutaskmyname" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord logo" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=KhushiiAgarwal&color=green&base=10000&abbreviated=true" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=KhushiiAgarwal&color=green&base=1000&abbreviated=true" alt="Profile views" />
 </div>
